@@ -1,0 +1,192 @@
+@font-face{
+	font-family:"BebasNeue";
+	src:url("fonts/BebasNeue.eot") format("eot"),
+	url("fonts/BebasNeue.woff") format("woff"),
+	url("fonts/BebasNeue.ttf") format("truetype"),
+	url("fonts/BebasNeue.svg#BebasNeue") format("svg");
+}
+
+
+body{
+	background-color: #ffffff;
+}
+.navBg{
+	background-color:#ffffff;
+	border: none;
+}
+.brandItem{
+	padding:50px 0px;
+	
+}
+.listItem{
+	
+}
+.listItem ul{
+	
+	padding:55px 0px;
+	background-color:#ffffff;
+	
+}
+.listItem ul li{
+	font-size:20px;
+	font-family:BebasNeue;
+	font-weight: bold;
+	color: #4d4d4d;
+}
+.listItem ul li a{
+	padding:0px 30px;
+}
+.lovLogo{
+	margin-right: -16px;
+	margin-top: -5px;	
+}
+.brandingAgencyBg{
+	background-image: url(img/brandingAgencyCover.png);
+    background-position: center;
+    background-repeat: repeat-x;
+    padding: 15px 0px;
+}
+.brandingAgency h1{
+	font-size:38px;
+	font-family:BebasNeue;
+	
+	color: #4d4d4d;
+}
+.brandingAgency p{
+	font-size:15px;
+	font-family:Arial;
+	color: #808080;
+	margin-bottom: 20px;
+}
+.awesomeDiv{
+	margin-top: 80px;
+	padding: 10px;
+}
+.awesomeDiv h2{
+	
+	font-size:21px;
+	font-family:BebasNeue;
+	font-weight: bold;
+	color: #4d4d4d;
+	float: left;
+}
+.awesomeDiv button{
+	font-size:18px;
+	font-family:BebasNeue;
+	font-weight: bold;
+	color: #ffffff;
+	float: right;
+	border-radius:0px;
+	margin-right: -16px;
+	margin-top: 7px;
+	background-color: #ef5f60;
+}
+.awesomeDiv button:hover{
+	background-color:#ef5f60 ;
+}
+.middleContant{
+	margin-bottom: 10px;
+}
+.contactUs{
+	
+}
+.contactUs h2{
+	font-size:28px;
+	font-family:BebasNeue;
+	
+	color: #4d4d4d;
+	margin-bottom: 25px;
+}
+.whatDoDiv{
+	margin-top: 60px;
+	margin-bottom: 50px;
+}
+.whatDoDiv h2{
+	font-size:21px;
+	font-family:BebasNeue;
+	font-weight: bold;
+	color: #4d4d4d;
+}
+.whatDoDiv p{
+	font-size:15px;
+	font-family:Arial;
+	color: #808080;
+}
+.middleContent h2{
+	font-size:19px;
+	font-family:BebasNeue;
+	font-weight: bold;
+	color: #4d4d4d;
+}
+.middleContent p{
+	font-size:15px;
+	font-family:Arial;
+	color: #808080;
+}
+.formMargin{
+	margin-top:80px;
+	margin-bottom:50px;
+}
+.lastContent{
+	
+}
+
+.lastContentP{
+	color: #c3c3c3;
+	font-size: 17px;
+	font-family:BebasNeue;
+	
+	display: block;
+	
+	
+
+}
+.lastContentP2{
+	color: #808080;
+	font-size: 15px;
+	font-family: Arial;
+	
+	
+	
+
+}
+.lastContent h2{
+	color: #4d4d4d;
+	font-size: 24px;
+	font-family:BebasNeue;
+	font-weight: bold;
+	display: inline-block;
+	
+	margin-top: -10px;
+}
+.leftImg{
+	margin-right: 25px;
+}
+.lastContentFirst{
+	margin-bottom: 50px;
+}
+.footerBg{
+	margin-top: 150px;
+	background: url(img/footerColor.png) repeat-x;
+	background-size: cover;
+}
+.footerBg p{
+	color: #bdbdbd;
+	font-size: 15px;
+	font-family: Arial;
+	padding: 40px 0px;
+}
+
+.footerIcon ul{
+	margin-top: -20px;
+	margin-bottom: 65px;
+	list-style:none;
+	display: inline-block;
+}
+.footerIcon ul li{
+	padding:0 5px;
+	float:left;
+}
+
+
+
